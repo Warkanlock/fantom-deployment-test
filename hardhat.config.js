@@ -10,7 +10,7 @@ module.exports = {
   solidity: "0.8.4",
   networks: {
     fantom: {
-      url: "https://rpc.ftm.tools/",
+      url: "https://rpcapi.fantom.network",
       accounts,
       chainId: 4002,
       live: true,
