@@ -3,7 +3,6 @@ require("dotenv").config();
 
 const accounts = {
   mnemonic: process.env.MNEMONIC,
-  // accountsBalance: "990000000000000000000",
 };
 
 module.exports = {
